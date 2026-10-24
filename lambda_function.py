@@ -14,7 +14,7 @@ ALLOWED_EXTENSIONS = (".pdf", ".doc", ".docx", ".txt")
 MAX_FILE_SIZE = 10 * 1024 * 1024  # 10 MiB
 
 EXPECTED_BUCKET = "cloudsubmit-assignment"
-SENDER_EMAIL = "aryaaws05@gmail.com"
+SENDER_EMAIL = "your-verified-sender@example.com"
 TABLE_NAME = "CloudSubmitSubmissions"
 
 # AWS service clients in Mumbai
