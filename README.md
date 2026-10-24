@@ -74,8 +74,6 @@ AWS, Serverless Computing, AWS Lambda, Amazon S3, Amazon DynamoDB, Amazon SES, A
 ![AWS Architecture Diagram](Automated%20AWS%20File%20Validation%20Pipeline.png)
 
 ## Project Screenshots
-## Project Screenshots
-
 ### 1. S3 File Uploads
 ![S3 File Uploads](screenshots_git/s3-uploaded-files.png.png)
 
