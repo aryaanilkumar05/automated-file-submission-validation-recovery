@@ -68,3 +68,7 @@ The project demonstrates event-driven serverless architecture, automated validat
 ## Keywords
 
 AWS, Serverless Computing, AWS Lambda, Amazon S3, Amazon DynamoDB, Amazon SES, Amazon SQS, Amazon CloudWatch, Amazon SNS, AWS IAM, Failure Monitoring.
+
+## AWS Architecture Diagram
+
+![AWS Architecture Diagram](Automated%20AWS%20File%20Validation%20Pipeline.png)
