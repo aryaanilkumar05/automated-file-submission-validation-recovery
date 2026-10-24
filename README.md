@@ -91,3 +91,9 @@ AWS, Serverless Computing, AWS Lambda, Amazon S3, Amazon DynamoDB, Amazon SES, A
 
 ### 6. Administrator Alert Email
 ![SNS Administrator Alert](screenshots_git/sns-admin-alarm-email.png.png)
+
+## Source Code
+
+The Lambda function implementation is available here:
+
+[View lambda_function.py](lambda_function.py)
