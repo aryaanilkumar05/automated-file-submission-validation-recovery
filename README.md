@@ -74,21 +74,22 @@ AWS, Serverless Computing, AWS Lambda, Amazon S3, Amazon DynamoDB, Amazon SES, A
 ![AWS Architecture Diagram](Automated%20AWS%20File%20Validation%20Pipeline.png)
 
 ## Project Screenshots
+## Project Screenshots
 
 ### 1. S3 File Uploads
-![S3 File Uploads](screenshots/s3-uploaded-files.png)
+![S3 File Uploads](screenshots_git/s3-uploaded-files.png.png)
 
 ### 2. Rejection Email
-![SES Rejection Email](screenshots/ses-rejection-email.png)
+![SES Rejection Email](screenshots_git/ses-rejection-email.png.png)
 
 ### 3. DynamoDB Submission Records
-![DynamoDB Records](screenshots/dynamodb-submission-records.png)
+![DynamoDB Records](screenshots_git/dynamodb-submission-records.png.png)
 
 ### 4. Lambda Execution Results
-![Lambda Execution](screenshots/lambda-execution-results.png)
+![Lambda Execution](screenshots_git/lambda-execution-results.png.png)
 
 ### 5. CloudWatch Error Alarm
-![CloudWatch Alarm](screenshots/cloudwatch-lambda-error-alarm.png)
+![CloudWatch Alarm](screenshots_git/cloudwatch-lambda-error-alarm.png.png)
 
 ### 6. Administrator Alert Email
-![SNS Administrator Alert](screenshots/sns-admin-alarm-email.png)
+![SNS Administrator Alert](screenshots_git/sns-admin-alarm-email.png.png)
